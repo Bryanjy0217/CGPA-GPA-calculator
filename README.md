@@ -1,2 +1,22 @@
-# CGPA-GPA-calculator
-This is a simple C++ CGPA calculator built to simplify GPA and CGPA calculations. Instead of doing the math manually, this program allows quick estimation of results. It can also be shared with friends to help them calculate and check their own academic performance.
+# CGPA Calculator Program
+
+This is a C++ program that calculates GPA and CGPA based on multiple semesters.  
+It allows users to input credit hours and GPA for each semester, then computes the overall CGPA using a weighted formula.
+
+## Features
+- Accepts number of semesters  
+- Allows input of GPA and credit hours for each semester  
+- Calculates GPA for each semester  
+- Computes overall CGPA using weighted average  
+- Displays final CGPA clearly  
+
+## Technologies
+- C++  
+- Standard Input/Output  
+
+## Purpose
+This project was created as part of my learning process in C++ programming.  
+The focus is on understanding how real-world calculations like CGPA are implemented using logic, loops, and user input handling.
+
+## Author
+Bryan Lim  
